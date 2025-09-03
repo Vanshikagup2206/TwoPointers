@@ -53,5 +53,5 @@ left=4 (2)
 
 left=5 == right → loop ends
 
-Output = 9, jo correct hai
+Output = 9
  */
